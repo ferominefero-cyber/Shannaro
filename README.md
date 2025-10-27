@@ -1,3 +1,7 @@
+![BscScan Verified](https://img.shields.io/badge/BscScan-Verified-brightgreen)
+![Audit](https://img.shields.io/badge/Audit-Community-blue)
+![License](https://img.shields.io/badge/License-MIT-lightgrey)
+
 ## 🌸 Shannaro (桜怒り) — Smart Contract Audit Report  
 
 **Network:** BNB Smart Chain (BEP-20)  
