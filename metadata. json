@@ -1,0 +1,17 @@
+{
+  "name": "Shannaro",
+  "symbol": "SNR",
+  "network": "BNB Smart Chain",
+  "standard": "BEP-20",
+  "contract_address": "0xed06fd777370c1014391b45b3653d93140ef1793",
+  "launch_type": "Fair Launch",
+  "liquidity_status": "Locked",
+  "ownership_status": "Renounced",
+  "audit_type": "Community Verification",
+  "audit_date": "2025-10-27",
+  "audit_report": "https://github.com/ferominefero-cyber/Shannaro",
+  "dex_listing": "PancakeSwap V2",
+  "bscscan": "https://bscscan.com/token/0xed06fd777370c1014391b45b3653d93140ef1793",
+  "description": "Shannaro (桜怒り) is a fair-launch BEP-20 token on BNB Smart Chain, with locked liquidity and renounced ownership for full transparency.",
+  "tags": ["DeFi", "FairLaunch", "Transparency", "BNBChain"]
+}
